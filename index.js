@@ -18,10 +18,10 @@ app.get("/", (req, res) => {
       <head>
         <meta property="og:title" content="Wolfplet" />
         <meta property="og:description" content="AI wolf that talks with you onchain." />
-        <meta property="og:image" content="https://yourdomain.com/wolfplet-preview.png" />
+        <meta property="og:image" content="https://yourdomain.com/wolfplet.png" />
 
         <meta property="fc:frame" content="vNext" />
-        <meta property="fc:frame:image" content="https://yourdomain.com/wolfplet-preview.png" />
+        <meta property="fc:frame:image" content="https://yourdomain.com/wolfplet.png" />
         <meta property="fc:frame:input:text" content="Say something to Wolfplet..." />
         <meta property="fc:frame:button:1" content="Send" />
         <meta property="fc:frame:post_url" content="https://yourdomain.com/api/chat" />
